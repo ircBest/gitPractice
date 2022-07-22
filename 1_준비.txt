@@ -18,7 +18,7 @@ CREATE TABLE memberTest (
 	(4) root-context.xml : DB연결 / mybatis 설정
 	
 
-3. 필요한 파일 만들기
+3. 종세 못생겼어
 	(1) com.javaclass.domain.MemberVO
 	(2) mappers/MemberMapper.xml
 	
