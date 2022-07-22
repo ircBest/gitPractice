@@ -42,6 +42,8 @@ public class MemberController {
 			// 비교
 			//if( vo.getUserid() == vo.getUserid() && vo.getUserpass().equals(vo.getUserpass())) {
 				System.out.println("로그인성공");
+				System.out.println("로그인성공");
+				System.out.println("로그인성공");
 				session.setAttribute("login", result.getUsername());
 			//}
 			return "loginConfirm";
