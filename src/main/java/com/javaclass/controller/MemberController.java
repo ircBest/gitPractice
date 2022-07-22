@@ -44,6 +44,8 @@ public class MemberController {
 				System.out.println("로그인성공");
 				System.out.println("로그인성공");
 				System.out.println("로그인성공");
+				System.out.println("로그인성공");
+				System.out.println("로그인성공");
 				session.setAttribute("login", result.getUsername());
 			//}
 			return "loginConfirm";
