@@ -11,7 +11,11 @@
 <a href='memberForm.do'>회원가입 바로가기</a>
 <hr/>
 <hr/>
+<<<<<<< HEAD
 <a href='loginForm.do'>어디든 바로가기</a>
+=======
+<a href='loginForm.do'> 가긴어딜가!!!!!!!! 바로가기</a>
+>>>>>>> branch 'master' of https://github.com/ircBest/gitPractice.git
 
 </body>
 </html>
