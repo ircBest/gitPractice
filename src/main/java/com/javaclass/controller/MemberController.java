@@ -36,7 +36,7 @@ public class MemberController {
 		MemberVO result = memberServiceImpl.loginCheck(vo);
 		System.out.println(result.getUsername());
 		if(result==null || result.getUserid() == null) {
-			return "loginForm";
+			return "loginForm"; 
 		}else {
 			// (5) 로그인 성공한 사용자이름을 세션에 저장
 			// 비교

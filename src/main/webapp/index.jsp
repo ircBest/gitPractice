@@ -11,7 +11,7 @@
 <a href='memberForm.do'>회원가입 바로가기</a>
 <hr/>
 <hr/>
-<a href='loginForm.do'>로그인안갈래 바로가기</a>
+<a href='loginForm.do'>로그인안갈래! 바로가기</a>
 
 </body>
 </html>
