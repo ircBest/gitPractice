@@ -15,7 +15,7 @@ import com.javaclass.service.MemberService;
 @Controller
 public class MemberController {
 
-	// ### (2) 해당 어노테이션 지정
+	// ### (2) 해당 어노테이션 지정 종세야 정신차려
 	@Autowired
 	private MemberService memberServiceImpl;
 	
