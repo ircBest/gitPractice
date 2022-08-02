@@ -30,4 +30,4 @@ CREATE TABLE memberTest (
 
 	(7) com.javaclass.controller.MemberController
 	
-4. 뷰페이지에 필요한 부분 추가
+4. 뷰페이지에 필요한 부분 추가해줘라
